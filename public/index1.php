@@ -1,7 +1,7 @@
 <html lang="en">
 
   <head>
-    <title>Programiramo</title>
+    <title>Vezbamo</title>
     <style></style>
   </head>
 
