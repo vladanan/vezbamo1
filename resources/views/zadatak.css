@@ -1,0 +1,32 @@
+html {
+  background-color:rgb(245, 239, 229);
+}
+img {
+  height: 200; 
+}
+tr, td {
+  border: 1px solid black;
+  padding: 3px;
+}
+td {
+  padding: 10px 10px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 2px 2px;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
