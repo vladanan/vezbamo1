@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    #return view('welcome');
+    return view('v1');
 });
 
 Auth::routes();
