@@ -9,7 +9,7 @@
   <body>
     <h1>o1</h1>
     <a href="do10.php">do10</a><br>
-    <a href="do20.php">do20</a>
+    <!--- <a href="do20.php">do20</a> --->
 
     
     

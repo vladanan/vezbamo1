@@ -2,7 +2,7 @@
 
   <head>
   <title>do10</title>
-    <link rel="stylesheet" href="..\..\zadatak.css">
+    <link rel="stylesheet" href="../../zadatak.css">
   </head>
 
   <body>

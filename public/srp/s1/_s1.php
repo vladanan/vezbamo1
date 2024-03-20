@@ -9,7 +9,7 @@
   <body>
     <h1>s1</h1>
     <a href="kombi.php">kombinatorika</a><br>
-    <a href="nesto.php">nesto</a>
+    <!--- <a href="nesto.php">nesto</a> --->
 
     
     
